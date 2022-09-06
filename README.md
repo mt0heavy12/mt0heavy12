@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mt0heavy12
-- 👀 I’m interested in programming languages such as: Python, C
+- 👀 I’m interested in programming languages such as: Python, C#
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something similar as I have done
 - 📫 How to reach me:
